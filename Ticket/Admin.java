@@ -103,6 +103,7 @@ public class Admin {
 			gen=i.next();
 			user_db(uname,password,age,gen);
 		}
+			
 		else
 		System.out.println("Username alredy exist");
 		System.out.print("Do you want to continue or return to main menu (y/n) respectively  : ");
